@@ -1,2 +1,2 @@
-# DS_course
+# Homework
 Data science course.
