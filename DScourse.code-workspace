@@ -11,6 +11,9 @@
 			"python": "true",
 			"sql": "true",
 			"shellscript": "true"
-		}
+		},
+		"cSpell.words": [
+			"devcontainers"
+		]
 	}
 }
