@@ -2,3 +2,5 @@
 .bashrc
 .profile
 .gitconfig
+.gitignore
+.gitattributes
