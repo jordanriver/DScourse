@@ -6,4 +6,6 @@
 .gitattributes
 startup.sh
 DScourse.code-workspace
+.env
+__pycache__
 ```
