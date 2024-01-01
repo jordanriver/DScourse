@@ -7,6 +7,5 @@
 startup.sh
 DScourse.code-workspace
 .env
-.conda
 __pycache__
 ```
