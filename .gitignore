@@ -1,0 +1,12 @@
+.bash_profile
+.bashrc
+.profile
+.gitconfig
+.gitignore
+.gitattributes
+startup.sh
+DScourse.code-workspace
+.env
+LaTex
+__pycache__
+```
