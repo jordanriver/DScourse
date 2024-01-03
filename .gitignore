@@ -11,4 +11,6 @@ LaTex
 .lesshst
 __pycache__
 README.md
+jupyterhub-proxy.pid
+jupyterhub.sqlite
 ```
