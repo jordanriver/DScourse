@@ -1,2 +1,0 @@
-# Homework
-Data science course.
