@@ -8,5 +8,6 @@ startup.sh
 DScourse.code-workspace
 .env
 LaTex
+.lesshst
 __pycache__
 ```
