@@ -35,7 +35,36 @@
 			"terminal.ansiMagenta": "#A36AC7",
 			"terminal.ansiRed": "#CC342B",
 			"terminal.ansiWhite": "#C5C8C6",
-			"terminal.ansiYellow": "#FBA922"
-		}
+			"terminal.ansiYellow": "#FBA922",
+			"activityBar.activeBackground": "#1a1a1a",
+			"activityBar.background": "#1a1a1a",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#606020",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"commandCenter.border": "#e7e7e799",
+			"statusBar.background": "#000000",
+			"statusBar.foreground": "#e7e7e7",
+			"statusBarItem.hoverBackground": "#1a1a1a",
+			"statusBarItem.remoteBackground": "#000000",
+			"statusBarItem.remoteForeground": "#e7e7e7",
+			"titleBar.activeBackground": "#000000",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveBackground": "#00000099",
+			"titleBar.inactiveForeground": "#e7e7e799"
+		},
+		"peacock.affectActivityBar": true,
+		"peacock.affectSashHover": false,
+		"peacock.affectStatusBar": true,
+		"peacock.affectTitleBar": true,
+		"peacock.darkForegroundColor": "",
+		"peacock.lightForegroundColor": "",
+		"peacock.showColorInStatusBar": false,
+		"peacock.affectDebuggingStatusBar": false,
+		"peacock.affectEditorGroupBorder": false,
+		"peacock.affectPanelBorder": false,
+		"peacock.affectSideBarBorder": false,
+		"peacock.affectStatusAndTitleBorders": false,
+		"peacock.affectTabActiveBorder": false
 	}
 }
